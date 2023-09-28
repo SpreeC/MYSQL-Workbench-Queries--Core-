@@ -1,0 +1,2 @@
+# MYSQL Workbench Queries (Core)
+ 
